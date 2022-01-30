@@ -1,3 +1,3 @@
-# Progressive-Improvement-of-Location-and-Boundary-for-Salient-Object-Detection
+# PiNet
 
 Code will be released soon.
