@@ -1,5 +1,5 @@
 # Feature Specific Progressive Improvement for Salient Object Detection
-***
+
 The authors: Xianheng Wang, Zhaobin Liu, Veronica Liesaputra, Zhiyi Huang
 
 The manuscript was originally submitted to Pattern Recognition on June 10, 2021, and was finally accepted on September 27, 2023. The code is currently being organized and will be uploaded gradually.
