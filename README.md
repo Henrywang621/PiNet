@@ -1,6 +1,6 @@
-<span style="color:blue">
+<font color="red">
 # Feature Specific Progressive Improvement for Salient Object Detection
-</span>
+</font>
 
 **The authors**: Xianheng Wang, Zhaobin Liu, Veronica Liesaputra, Zhiyi Huang
 
